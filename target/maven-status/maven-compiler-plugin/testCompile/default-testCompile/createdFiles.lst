@@ -1,0 +1,9 @@
+starter\navigation\DuckDuckGoHomePage.class
+starter\search\SearchFor.class
+starter\navigation\NavigateTo.class
+starter\search\SearchResultList.class
+starter\CucumberTestSuite.class
+starter\matchers\StringContainsIgnoringCase.class
+starter\search\SearchResult.class
+starter\stepdefinitions\SearchOnDuckDuckGoStepDefinitions.class
+starter\search\SearchForm.class
